@@ -1,0 +1,74 @@
+Starting page :
+
+6.0	Vue d'ensemble du chapitre							p.243
+6.1	Le registre d'état du processeur (Flags)					p.244
+6.2	Encodage des instructions							p.245
+6.3	Instructions de transfert de données						p.246
+6.3.1	L'instruction MOV								p.246
+6.3.2	L'instruction XCHG								p.247
+6.3.3	Les instructions LDS, LES, LFS LGS et LSS					p.248
+6.3.4	L'instruction LEA								p.249
+6.3.5	Les instructions PUSH et POP6.3.5						p.250
+6.3.6	Les instructions LAHF et SAHF							p.252
+6.4	Instructions de conversion							p.252
+6.4.1	Les instructions MOVZX, MOVSX, CBW, CWD, CWDE et CDQ				p.252
+6.4.2	L'instruction BSWAP								p.254
+6.4.3	L'instruction XLAT								p.255
+6.5	Instructions arithmétiques							p.255
+6.5.1	Les instructions d'addition : ADD, ADC, INC, XADD, AAA et DAA			p.256
+6.5.1.1	Les instructions ADD et ADC							p.256
+6.5.1.2	L'instruction INC								p.258
+6.5.1.3	L'instruction XADD								p.258
+6.5.1.4	Les instructions AAA et DAA							p.259
+6.5.2	Les instructions de soustraction : SUB, SBB, DEC, AAS et DAS			p.260
+6.5.3	L'instruction CMP								p.261
+6.5.4	Les instructions CMPXCHG et CMPXCHG8B						p.263
+6.5.5	L'instruction NEG								p.264
+6.5.6	Les instructions de multiplication : MUL, IMUL et AAM				p.264
+6.5.7	Les instructions de division : DIV, IDIV et AAD					p.268
+6.6	Instructions logiques et de manipulation de bits				p.269
+6.6.1	Les instructions logiques : AND, OR, XOR et NOT					p.269
+6.6.2	Les instructions de décalage : SHL/SAL, SHR, SAR, SHLD et SHRD			p.270
+6.6.2.1	SHL/SAL										p.271
+6.6.2.2	SAR										p.273
+6.6.2.3	SHR										p.274
+6.6.2.4	Les instructions SHLD et SHRD							p.275
+6.6.3	Les instructions de rotation : RCL, RCR, ROL et ROR				p.277
+6.6.3.1	RCL										p.278
+6.6.3.2	RCR										p.278
+6.6.3.3	ROL										p.279
+6.6.3.4	ROR										p.279
+6.6.4	Les opérations sur les bits							p.280
+6.6.4.1	TEST										p.281
+6.6.4.2	Les instructions de test des bits : BT, BTS, BTR et BTC				p.281
+6.6.4.3	Recherche de bits (bit scanning) : BSF et BSR					p.282
+6.6.5	Les instructions « set on condition » (activer à condition que)			p.282
+6.7	Instructions d'E/S								p.285
+6.8	Instructions de chaînes								p.285
+6.9	Instructions de contrôle de flux						p.287
+6.9.1	Sauts inconditionnels								p.287
+6.9.2	Les instructions CALL et RET							p.290
+6.9.3	Les instructions INT, INTO, BOUND et IRET					p.293
+6.9.4	Sauts conditionnels								p.297
+6.9.5	Les instructions JCXZ/JECXZ							p.300
+6.9.6	L'instruction LOOP								p.301
+6.9.7	L'instruction LOOPE/LOOPZ							p.301
+6.9.8	L'instruction LOOPNE/LOOPNZ							p.302
+6.10	Instructions diverses								p.303
+6.11	Exemples de programmes								p.304
+6.11.1	Arithmétique simple I								p.304
+6.11.2	Arithmétique simple II								p.306
+6.11.3	Opérations logiques								p.308
+6.11.4	Opérations de décalage et de rotation						p.309
+6.11.5	Opérations sur les bits et instructions SETcc					p.311
+6.11.6	Opérations sur les chaînes de caractères					p.313
+6.11.7	Sauts inconditionnels								p.315
+6.11.8	Instructions CALL et INT							p.317
+6.11.9	Sauts conditionnels (première partie)						p.318
+6.11.10	Sauts conditionnels (deuxième partie)						p.320
+6.12	Exercices de laboratoire							p.322
+6.12.1	Le système IBM/L								p.322
+6.12.2	Exercices IBM/L									p.328
+6.13	Projets de programmation							p.329
+6.14	Résumé										p.330
+5.11	Questions									p.333

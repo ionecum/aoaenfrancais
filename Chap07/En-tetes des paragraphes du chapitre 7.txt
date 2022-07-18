@@ -1,0 +1,26 @@
+Starting page :
+
+7.0	Vue d'ensemble du chapitre							p.331
+7.1	Une introduction à la bibliothèque standard UCR					p.331
+7.1.1	Routines de gestion de la mémoire : MEMINIT, MALLOC et FREE   			p.332
+7.1.2	Les routines d'entrée standard : GETC, GETS et GETSM				p.332
+7.1.3	Les routines de sortie standard : PUTC, PUTCR, PUTS, PUTH, PUTI, PRINT et PRINTF p.334
+7.1.4	Routines formatées de sortie : PUTSIZE, PUTUSIZE, PUTLSIZE et PUPLSIZE		p.338
+7.1.5	Routines de taille des champs de sortie : ISIZE, USIZE et LSIZE			p.338
+7.1.6	Routines de conversion : ATOx et xTOA						p.339
+7.1.7	Routines qui testent des caractères pour en vérifier l'appartenance		p.340
+7.1.8	Routines de conversions de caractères : ToUpper et ToLower			p.341
+7.1.9	Génération de nombres aléatoires : Ramdom et Randomize				p.341
+7.1.10	Constantes, macros et d'autres choses diverses					p.341
+7.1.11	Encore plus !									p.342
+7.2	Exemples de programmes								p.342
+7.2.1	Le fichier SHELL.ASM mis à nu							p.342
+7.2.2	E/S numériques									p.343
+7.3	Exercices de laboratoire							p.345
+7.3.1	Obtention de la bibliothèque							p.345
+7.3.2	Décompacter la bibliothèque standard						p.346
+7.3.3	Utiliser la bibliothèque standard						p.346
+7.3.4	Les fichiers de documentation de la bibliothèque standard			p.347
+7.4	Projets de programmation							p.347
+7.5	Résumé										p.348
+	

@@ -1,0 +1,38 @@
+Starting page :
+
+5.0	Vue d'ensemble du chapitre							p.195
+5.1	Quelques instructions supplémentaires : LEA, LES, ADD et MUL			p.195
+5.2	Déclaration des variables dans un programme en assembleur			p.196
+5.3	Déclaration et accès des variables scalaires					p.197
+5.3.1	Déclaration et utilisation des variables BYTE					p.198
+5.3.2	Déclaration et utilisation des variables WORD					p.200
+5.3.3	Déclaration et utilisation des variables DWORD					P.201
+5.3.4	Déclaration et utilisation de variables FWORD, QWORD et TBYTE			P.202
+5.3.5	Déclaration des variables en virgule flottante avec REAL4, REAL8 et REAL 10	p.202
+5.4	Création de types personnalisés avec TYPEDEF					P.203
+5.5	Les données pointeur								p.203
+5.6	Types de données composés							p.207
+5.6.1	Tableaux									p.207
+5.6.1.1	Déclarer des tableaux dans le segment de données				p.208
+5.6.1.2	Accéder à des éléments dans un tableau unidimensionnel				p.209
+5.6.2	Tableaux multidimensionnels							p.211
+5.6.2.1	Mode orienté rangée								p.211
+5.6.2.2	Mode orienté colonne								p.216
+5.6.2.3	Allouer de la mémoire pour des tableaux à plusieurs dimensions			p.216
+5.6.2.4	Accéder aux éléments des tableaux multidimensionnels en assembleur		p.217
+5.6.3	Structures									p.219
+5.6.4	Tableaux de structures et tableaux ou structure comme champs de structures	p.221
+5.6.5	Pointeurs sur des structures							p.222
+5.7 	Exemples de programmes								p.223
+5.7.1	Simples déclarations de variables						p.223
+5.7.2	Utilisation des variables pointeur						p.225
+5.7.3	Accès à des tableaux unidimensionnels						p.226
+5.7.4	Accès aux tableaux multidimensionnels						p.228
+5.7.5	Accéder à des structures simples						p.229
+5.7.6	Tableaux de structures								p.230
+5.7.7	Structures et tableaux comme champs d'autres structures				p.232
+5.7.8	Pointeurs sur des structures et sur des tableaux de structures			p.236
+5.8	Exercices de laboratoire							p.238
+5.9	Projets de programmation							p.240
+5.10	Résumé										p.237
+5.11	Questions									p.241

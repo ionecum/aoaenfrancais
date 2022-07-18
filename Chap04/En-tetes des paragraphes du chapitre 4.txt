@@ -1,0 +1,65 @@
+Starting page :
+
+4.0	Vue d'ensemble du chapitre					p.147
+4.1	Les CPU 80x86 : Un point de vue de programmeur			p.147
+4.1.1	Registres généraux 80x86					p.148
+4.1.2	Les registres de segment 8086					p.149
+4.1.3	Les registres 8086 dits « spécialisés »				p.150
+4.1.4	Les registres du 80286						p.150
+4.1.5	Les registres 80386/80486					p.151
+4.2	80x86 : Organisation physique de la mémoire			p.152
+4.3	Segments 80x86							p.153
+4.4	Adresses normalisées						p.156
+4.5	Les registres de segment					p.157
+4.6	Les modes d'adressage 80x86					p.157
+4.6.1	Les modes d'adressage des registres 8086			p.158
+4.6.2	Les modes d'adressages de la mémoire 8086			p.158
+4.6.2.1	Le mode d'adressage déplacement seul				p.159
+4.6.2.2	Modes d'adressage indirect par les registres			p.160
+4.6.2.3	Modes d'adressage indexés					p.161
+4.6.2.4	Modes d'adressage basé/indexé					p.162
+4.6.2.5	Modes d'adressage basé/indexé plus déplacement			p.163
+4.6.2.6	Un moyen simple pour se souvenir des modes d'adressage 8086	p.164
+4.6.2.7	Considérations finales à propos des modes d'adressage 8086 	p.165
+4.6.3	Les modes d'adressage des registres sur le 80386		p.165
+4.6.4	Les modes d'adressage de la mémoire sur le 80386		p.165
+4.6.4.1	Les modes d'adressage par les registres				p.166
+4.6.4.2	Modes d'adressage indexés, basés/indexés et basés/indexés/disp	p.166
+4.6.4.3	Modes d'adressage scalaires du 80386				p.167
+4.6.4.4	Quelques considérations finales à propos des 
+	modes d'adressage 80386						p.167
+4.7	L'instruction MOV 80x86						p.168
+4.8	Considérations finales à propos de l'instruction MOV		p.171
+4.9	Exercices de laboratoire					p.172
+4.9.1	La bibliothèque standard UCR pour les programmeurs de 
+        l'assembleur 80x86						p.172
+4.9.2	Editez vos fichiers source					p.172
+4.9.3	Le fichier SHELL.ASM						p.173
+4.9.4	Assemblez votre code avec MASM					p.175
+4.9.5	Débogueurs et CodeView						p.175
+4.9.5.1	Un aperçu rapide de CodeView					p.176
+4.9.5.2	La fenêtre Source						p.177
+4.9.5.3	La fenêtre Memory						p.177
+4.9.5.4	La fenêtre Register						p.179
+4.9.5.5	La fenêtre Command						p.179
+4.9.5.6	L'élément Output du menu Window					p.180
+4.9.5.7	La fenêtre Command de CodeView					p.180
+4.9.5.7.1 La commande Radix (N)						p.180
+4.9.5.7.2 La commande Assemble						p.181
+4.9.5.7.3 La commande Compare Memory					p.181
+4.9.5.7.4 La commande Memory Dump					p.183
+4.9.5.7.5 La commande Enter						p.183
+4.9.5.7.6 La commande Memory Fill					p.185
+4.9.5.7.7 La commande Move Memory					p.186
+4.9.5.7.8 La commande Move Input					p.186
+4.9.5.7.9 La commande Output						p.186
+4.9.5.7.10La commande Quit						p.187
+4.9.5.7.11La commande Register						p.187
+4.9.5.7.12La commande Unassemble					p.188
+4.9.5.8	Touches de fonction de CodeView					p.188
+4.9.5.9	Quelques commentaires sur les adresses de CodeView		p.189
+4.9.5.10Un mot final sur CodeView					p.189
+4.9.6	Tâches de laboratoire						p.190
+4.9.10	Projets de programmation					p.191
+4.11	Résumé								p.191
+4.12	Questions							p.193

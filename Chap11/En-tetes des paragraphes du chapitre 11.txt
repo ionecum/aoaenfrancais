@@ -1,0 +1,35 @@
+Starting page :
+
+11.0	Vue d'ensemble du chapitre					p. 
+11.1	Procédures
+11.2	Procédures near et far
+11.2.1	Forcer des Appels et des Retours NEAR ou FAR
+11.2.2	Procédures emboîtées
+11.3	Fonctions
+11.4	Sauvegarder l'Etat de la Machine
+11.5 	Les Paramètres
+11.5.1	Le passage par valeur
+11.5.2	Le passage par référence
+11.5.3	Le passage par valeur retournée
+11.5.4	Le passage par résultat
+11.5.5	Le passage par nom
+11.5.6	Le passage par évaluation paresseuse
+11.5.7	Le passage de paramètres dans les registres
+11.5.8	Le passage de paramètres dans des variables globales
+11.5.9	Le passage de paramètres sur la pile
+11.5.10	Le passage des paramètres dans le code lui-même
+11.5.11	Le passage de paramètres via un bloc de paramètres
+11.6	Résultats de fonction 
+11.6.1	Retour de Résultats de Fonction dans un Registre
+11.6.2	Retour de résultats de fonction sur la pile
+11.6.3	Retour de résultats de fonction dans des emplacements en mémoire
+11.7	Effets de bord
+11.8	Stockage de variables locales
+11.9	La récursion
+11.10	Exemple de programme
+11.11	Exercices de laboratoire
+11.11.1	Ex11_1.cpp
+11.11.2	Ex11_1.asm
+11.12	Projets de programmation
+11.13	Résumé
+11.14	Questions
